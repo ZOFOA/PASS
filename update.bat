@@ -1,5 +1,5 @@
 @echo off 
-echo 生成静态文件
+echo github upate
 f:
 cd Github
 git add . 
